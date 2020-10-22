@@ -1,6 +1,8 @@
 # Hi there 👋, my name is Alfredo
 
-![Alfredo Hernández](./alfredo_hdz.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlfredoHernandez/AlfredoHernandez/main/alfredo_hdz.png" />
+</p>
 
 #### Software Engineer 
 Software Engineer with experience in mobile development using mainly agile methodologies. Experience with all Apple ecosystem, with both Objective-C and Swift languages and TDD methodology. I have developed applications for local and international markets with good rank of score.
