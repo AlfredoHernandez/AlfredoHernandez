@@ -1,6 +1,6 @@
 # Welcome to my Profile 👋
 
-![](./assets/alfredo-hdz.png)
+![](./alfredo-hdz.png)
 
 ## Who am I?
 
