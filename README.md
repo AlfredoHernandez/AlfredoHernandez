@@ -10,7 +10,7 @@ Love working in team and share knowledge. I’m curious by nature. Love learning
 
 - 🔭 I’m currently working at Globant MX 
 - 👯 I’m looking to collaborate on iOS Applications 
-- 📫 How to reach me: alfredo.h.alarcon@icloud.com 
+- 📫 How to reach me: contact@alfredohdz.io
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfredohernandezalarcon/) 
