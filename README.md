@@ -16,6 +16,6 @@ Love working in team and share knowledge. I’m curious by nature. Love learning
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfredohernandezalarcon/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_ZtuX_)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfredoHernandez&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfredoHernandez&show_icons=true&theme=default)  
 
 ![Profile views](https://gpvc.arturio.dev/AlfredoHernandez)  
