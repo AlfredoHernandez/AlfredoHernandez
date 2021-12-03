@@ -8,7 +8,7 @@ Software Engineer with experience in mobile development using mainly agile metho
 
 Love working in team and share knowledge. I’m curious by nature. Love learning new things or tools everyday and always improve.
 
-- 🔭 I’m currently working at Globant MX 
+- 🔭 I’m currently working at Ualá 
 - 👯 I’m looking to collaborate on iOS Applications 
 - 📫 How to reach me: contact@alfredohdz.io
 
