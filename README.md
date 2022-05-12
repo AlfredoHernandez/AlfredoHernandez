@@ -1,6 +1,6 @@
 # Welcome to my Profile 👋
 
-![](./alfredo-hdz.png)
+![alfredohdzdev-color](https://user-images.githubusercontent.com/22734433/168129598-e6cf9616-da86-4064-bb0d-6ffdd5c79776.png)
 
 ## Who am I?
 
