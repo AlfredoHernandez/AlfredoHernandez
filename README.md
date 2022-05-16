@@ -18,4 +18,6 @@ Love working in team and share knowledge. I’m curious by nature. Love learning
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfredoHernandez&show_icons=true&theme=default)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoHernandez&layout=compact&hide=blade,css,html,javascript,php)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Profile views](https://gpvc.arturio.dev/AlfredoHernandez)  
