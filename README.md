@@ -12,12 +12,12 @@ Love working in team and share knowledge. I’m curious by nature. Love learning
 - 👯 I’m looking to collaborate on iOS Applications 
 - 📫 How to reach me: contact@alfredohdz.io
 
+<div align="center">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfredohernandezalarcon/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_ZtuX_)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AlfredoHernandez&theme=tokyo-night)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfredoHernandez&show_icons=true&theme=default)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoHernandez&layout=compact&hide=blade,css,html,javascript,php)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/AlfredoHernandez)  
+</div>
