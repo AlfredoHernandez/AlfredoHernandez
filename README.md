@@ -1,23 +1,58 @@
-# Welcome to my Profile 👋
+<div align="center">
 
-![alfredohdzdev-color](https://user-images.githubusercontent.com/22734433/168129598-e6cf9616-da86-4064-bb0d-6ffdd5c79776.png)
+# Alfredo Hernández
 
-## Who am I?
+**Senior iOS Engineer** · Mexico 🇲🇽
 
-Software Engineer with experience in mobile development using mainly agile methodologies. Experience with all Apple ecosystem, with both Objective-C and Swift languages and TDD methodology. I have developed applications for local and international markets with good rank of score.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredohernandezalarcon/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@alfredohdz.io)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white)](https://alfredohdz.io)
 
-Love working in team and share knowledge. I’m curious by nature. Love learning new things or tools everyday and always improve.
+</div>
 
-- 🔭 I’m currently working at Ualá 
-- 👯 I’m looking to collaborate on iOS Applications 
-- 📫 How to reach me: contact@alfredohdz.io
+---
+
+### About Me
+
+Senior iOS Engineer with **10+ years of experience** building scalable mobile applications for fintech and banking sectors. Specialized in Swift, TDD, and modern iOS architectures (MVVM, VIPER, Clean Architecture).
+
+Proven track record leading critical migrations from legacy codebases to modern, tested architectures. Strong advocate for clean code, SOLID principles, and agile methodologies.
+
+🔭 **Currently:** iOS Engineer at **???**
+
+💼 **Open to:** Freelance projects & consulting
+
+> *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" alt="UIKit">
+  <img src="https://img.shields.io/badge/Combine-FF6F00?style=flat-square&logo=apple&logoColor=white" alt="Combine">
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white" alt="Objective-C">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white" alt="Fastlane">
+</p>
+
+---
+
+### Featured Projects
+
+**🚇 [Metro CDMX](https://alfredohdz.io/Metro/)** — iOS app for navigating Mexico City's metro system
+
+---
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlfredoHernandez&theme=tokyo-night&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlfredoHernandez&theme=github-light&hide_border=true">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AlfredoHernandez&theme=tokyo-night&hide_border=true">
+</picture>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AlfredoHernandez&theme=tokyo-night)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfredoHernandez&show_icons=true&theme=default)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoHernandez&layout=compact&hide=blade,css,html,javascript,php)](https://github.com/anuraghazra/github-readme-stats)
 </div>
