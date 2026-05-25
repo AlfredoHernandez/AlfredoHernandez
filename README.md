@@ -18,7 +18,7 @@ Senior iOS Engineer with **10+ years of experience** building scalable mobile ap
 
 Proven track record leading critical migrations from legacy codebases to modern, tested architectures. Strong advocate for clean code, SOLID principles, and agile methodologies.
 
-🔭 **Currently:** iOS Engineer at **???**
+🔭 **Currently:** iOS Engineer at **EarnIn**
 
 💼 **Open to:** Freelance projects & consulting
 
